@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to employee wages");
+            //Console.WriteLine("Welcome to employee wages");
+            EmployeeAttendence.Employee_Attendence();
         }
     }
 }
